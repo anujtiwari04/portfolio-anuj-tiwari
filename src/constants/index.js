@@ -70,7 +70,7 @@ export const PROJECTS = [
     title: "AI Chatbot",
     image: project4,
     description:
-      "Created an interactive chatbot using Google Gemini’s API to deliver real-time, AI-powered responses.",
+      "Created an interactive chatbot to send and receive real-time, AI-powered responses.",
    technologies: ["HTML","Tailwind-CSS","React","Google gemini API"],
     liveDemo: "https://sahayakai-anuj.vercel.app/",
     github: "https://github.com/anujtiwari04/SahayakAI"
