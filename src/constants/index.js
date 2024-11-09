@@ -67,11 +67,13 @@ export const PROJECTS = [
     github: "https://github.com/anujtiwari04/react-portfolio"
   },
   {
-    title: "Blogging Platform",
+    title: "AI Chatbot",
     image: project4,
     description:
-      "A platform for creating and publishing blog posts, with features like rich text editing, commenting, and user profiles.",
-    technologies: ["HTML","CSS","Vue.js","Express","mySQL"],
+      "Created an interactive chatbot using Google Gemini’s API to deliver real-time, AI-powered responses.",
+   technologies: ["HTML","Tailwind-CSS","React","Google gemini API"],
+    liveDemo: "https://sahayakai-anuj.vercel.app/",
+    github: "https://github.com/anujtiwari04/SahayakAI"
   },
 ];
 
