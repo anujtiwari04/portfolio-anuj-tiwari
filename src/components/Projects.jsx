@@ -39,7 +39,7 @@ const Projects = () => {
                                     className="text-blue-500 text-sm font-semibold hover:underline flex items-center gap-1"
                                 >
                                     <FiExternalLink className="text-lg" /> Live Demo
-                                </a>
+                                </a> 
                             )}
                             {project.github && (
                                 <a
