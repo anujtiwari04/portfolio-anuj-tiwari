@@ -3,7 +3,7 @@ import { CONTACT } from '../constants/index';
 
 const Contact = () => {
     return (
-        <div className="flex flex-col items-center py-20 h-screen text-white">
+        <div className="flex flex-col items-center text-white py-10 justify-center">
             <h2 className="text-4xl mb-6">Get In Touch</h2>
 
             {/* Email with mailto link */}
