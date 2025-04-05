@@ -43,7 +43,7 @@ export const PROJECTS = [
     title: "E-Commerce Website",
     image: project1,
     description:
-      "A fully functional e-commerce website with features like product listing, shopping cart, and user authentication.",
+      "An e-commerce application featuring dynamic product listings, cart management, and a clean, responsive user interface. Designed with a focus on smooth navigation and a user-friendly experience. Built with modern tech to simulate a real-world online shopping experience",
     technologies: ["HTML","CSS","React","Node.js","MongoDB"],
     liveDemo: "https://ecommerce-react-anujtiwari.vercel.app/",
     github: "https://github.com/anujtiwari04/ecommerce-react"
@@ -52,7 +52,7 @@ export const PROJECTS = [
     title: "Mental Health Support SaaS web App",
     image: project2,
     description:
-      "MindMosaic is an AI-driven mental wellness platform designed to support, empower, and connect. It offers intelligent emotional health assessments, a compassionate real-time chatbot for 24/7 support, and a safe, anonymous community space for sharing and healing. With a strong focus on empathy, privacy, and user experience, MindMosaic helps users navigate their mental health journey with confidence and care.",
+      "MindMosaic is an AI-powered mental wellness platform offering emotional assessments, a 24/7 empathetic chatbot, and an anonymous support community. It’s designed to help users reflect, connect, and heal—privately and confidently.",
     technologies: ["HTML","CSS","React","Node.js","MongoDB", "Google gemini API"],
     liveDemo: "https://yourmindmosaic.vercel.app",
     github: "https://github.com/anujtiwari04/mind__mosaic"
@@ -61,7 +61,7 @@ export const PROJECTS = [
     title: "Portfolio Website",
     image: project3,
     description:
-      "A personal portfolio website showcasing projects, skills, and contact information.",
+      "A sleek and responsive personal portfolio to showcase projects, highlight development skills, and enable easy contact. Enhanced with animations and clean UI using Tailwind CSS and Framer Motion.",
     technologies: ["HTML","Tailwind-CSS","React", "Framer-motion"],
     liveDemo: "https://anuj-tiwari-portfolio.vercel.app/",
     github: "https://github.com/anujtiwari04/react-portfolio"
@@ -70,7 +70,7 @@ export const PROJECTS = [
     title: "AI Chatbot",
     image: project4,
     description:
-      "Created an interactive chatbot to send and receive real-time, AI-powered responses.",
+      "A real-time interactive chatbot powered by Google’s Gemini API. Designed to deliver smart, context-aware responses across various use cases—ideal for conversational interfaces, support tools, and AI-driven user engagement.",
    technologies: ["HTML","Tailwind-CSS","React","Google gemini API"],
     liveDemo: "https://sahayakai-anuj.vercel.app/",
     github: "https://github.com/anujtiwari04/SahayakAI"
