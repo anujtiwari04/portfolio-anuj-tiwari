@@ -52,10 +52,10 @@ export const PROJECTS = [
     title: "Mental Health Support SaaS web App",
     image: project2,
     description:
-      "A mental health support website offering personalized guidance through features like tailored suggestions, issue-based selections, and interactive prompts. Built with a focus on user experience and privacy.",
+      "MindMosaic is an AI-driven mental wellness platform designed to support, empower, and connect. It offers intelligent emotional health assessments, a compassionate real-time chatbot for 24/7 support, and a safe, anonymous community space for sharing and healing. With a strong focus on empathy, privacy, and user experience, MindMosaic helps users navigate their mental health journey with confidence and care.",
     technologies: ["HTML","CSS","React","Node.js","MongoDB", "Google gemini API"],
-    liveDemo: "https://mosaicmind.vercel.app/",
-    github: "https://github.com/anujtiwari04/Mindmosaic"
+    liveDemo: "https://yourmindmosaic.vercel.app",
+    github: "https://github.com/anujtiwari04/mind__mosaic"
   },
   {
     title: "Portfolio Website",
