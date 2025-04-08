@@ -9,7 +9,7 @@ export const ABOUT_TEXT = `I am a dedicated full-stack developer with a passion 
 
 export const EXPERIENCES = [
   {
-    year: "December, 2023 - Present",
+    year: "December, 2024 - Present",
     role: "MERN Stack Intern",
     company: "Mathionix Technologies Pvt. Ltd.",
     description: `Working as part of the development team to design and implement web applications using the MERN stack (MongoDB, Express.js, React.js, Node.js). Collaborating with senior developers to build scalable and efficient backend services and interactive front-end interfaces.`,
