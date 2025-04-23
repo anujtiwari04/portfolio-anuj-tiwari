@@ -8,13 +8,13 @@ export const HERO_CONTENT = `I am a passionate full-stack developer with a flair
 export const ABOUT_TEXT = `I am a dedicated full-stack developer with a passion for crafting interactive and efficient web applications. My journey in development began with curiosity and has evolved into a journey where I continuously push myself to learn and innovate. From building mental health support tools to real-time chat applications, I thrive in environments that encourage creativity and problem-solving. With strong experience in the MERN stack, Tailwind CSS, and more, I’m committed to delivering solutions that prioritize user experience and security.`;
 
 export const EXPERIENCES = [
-  {
-    year: "December, 2024 - Present",
-    role: "MERN Stack Intern",
-    company: "Mathionix Technologies Pvt. Ltd.",
-    description: `Working as part of the development team to design and implement web applications using the MERN stack (MongoDB, Express.js, React.js, Node.js). Collaborating with senior developers to build scalable and efficient backend services and interactive front-end interfaces.`,
-    technologies: ["Javascript","React.js","Node.js","mongoDB"], 
-  },
+  // {
+  //   year: "December, 2024 - Present",
+  //   role: "MERN Stack Intern",
+  //   company: "Mathionix Technologies Pvt. Ltd.",
+  //   description: `Working as part of the development team to design and implement web applications using the MERN stack (MongoDB, Express.js, React.js, Node.js). Collaborating with senior developers to build scalable and efficient backend services and interactive front-end interfaces.`,
+  //   technologies: ["Javascript","React.js","Node.js","mongoDB"], 
+  // },
   // {
   //   year: "2022 - 2023",
   //   role: "Frontend Developer",
