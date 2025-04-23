@@ -15,7 +15,7 @@ const Technologies = () => {
         { Icon: FaNodeJs, name: "Node.js", color: "text-green-700" },
         { Icon: RiTailwindCssFill, name: "Tailwind", color: "text-blue-400" },
         { Icon: FaGitAlt, name: "Git", color: "text-red-500" },
-        { Icon: RiReactjsFill, name: "React Native", color: "text-blue-400" }
+        { Icon: RiReactjsFill, name: "ReactNative", color: "text-blue-400" }
     ];
     
     return (
